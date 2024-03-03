@@ -9,7 +9,7 @@ Making charts is relatively easy and it can tell us a lot about the data itself 
 <img width="720" alt="image" src="https://github.com/luthfiz23/PowerBi_Sales_2/assets/159741452/f43c56ad-0612-4745-b750-272c9a665dea">
 
 ### Information and Insight
-1. In 2015, the store generated more than 4M USD in sales and more than 500K USD in profit. This means the store gained around 12.5% profit from its sales, which is genrally safe but it certainly can improve.
+1. In 2015, the store generated more than 4M USD in sales and more than 500K USD in profit. This means the store gained around 11% profit from its sales, which is genrally safe but it certainly can improve.
 2. The store gained more sales (and profit) in the 4th quarter. This is a proven seasonality of the store's sales since the same pattern occured since 2012.
   <img width="447" alt="Sales and Profit since 2012 - 2015" src="https://github.com/luthfiz23/PowerBi_Sales_2/assets/159741452/8a36a0fc-e52a-47e0-93c4-49a14d9ff27d">
 
@@ -34,4 +34,7 @@ Further investigation shows that there are some outliers in the copiers sold in 
 
   <img width="165" alt="image" src="https://github.com/luthfiz23/PowerBi_Sales_2/assets/159741452/2c11fa97-b8fb-4b8b-8883-7696c57db30f">
 
-
+### Suggestions
+Based on the data I have acquired and the analysis I've made, I can make a few suggestions to the business' stakeholder that I hope can help improve the profit.
+1. Assuming that the shipping cost is currently paid by the company, this policy needs to change. Meanwhile it is very effective to encourage customer to order a product, it is also important for us to keep our business healthy. For example, tables. It would be reckless to just remove Tables from our inventory, because we were able to sell more than 1 thousand tables in 2015. We have to find a way to make tables make some profit. One solution to this, is to make customer pay (some or all) shipping cost for table to reduce operation cost.
+2. 
