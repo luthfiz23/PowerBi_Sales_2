@@ -27,8 +27,11 @@ Making charts is relatively easy and it can tell us a lot about the data itself 
 <img width="166" alt="image" src="https://github.com/luthfiz23/PowerBi_Sales_2/assets/159741452/65423d4c-e7d8-43e0-ac62-deb98352f750">
 
 Further investigation shows that there are some outliers in the copiers sold in the USCA market, where there are 3 copiers sold at more than 10K USD and each generating around 4K to 7K USD of profit.
+
 <img width="165" alt="image" src="https://github.com/luthfiz23/PowerBi_Sales_2/assets/159741452/d2422fed-9357-4643-9e6a-3552eb676d7e">
 
 10. In the USCA market, the average supplies (in the Office Supplies category) failed to generate profit and bringing in a relatively small loss of 14 USD. But on the grand sceme of sales, the loss accumulated into 808 USD. Unlike the case of tables sold in Africa, this seems to not correlate directly with the shipping cost.
+
 <img width="165" alt="image" src="https://github.com/luthfiz23/PowerBi_Sales_2/assets/159741452/2c11fa97-b8fb-4b8b-8883-7696c57db30f">
+
 
