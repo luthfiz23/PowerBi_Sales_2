@@ -9,7 +9,7 @@ The data is contained in a Microsoft Excel file (.xlsx) which can be pulled dire
 
 ### Information and Insight
 1. In 2015, the store generated more than 4M USD in sales and more than 500K USD in profit. This means the store gained around 11% profit from its sales, which is genrally safe but it certainly can improve.
-2. The store gained more sales (and profit) in the 4th quarter. This is a proven seasonality of the store's sales since the same pattern occured since 2012.
+2. The store gained more sales (and profit) in the 4th quarter. This is a proven seasonality of the store's sales since the same pattern occurred since 2012.
   <img width="447" alt="Sales and Profit since 2012 - 2015" src="https://github.com/luthfiz23/PowerBi_Sales_2/assets/159741452/8a36a0fc-e52a-47e0-93c4-49a14d9ff27d">
 
 3. The average profit of all orders is around $28. However, the median is only a little over $9. This means there are some highly profitable sales but the majority of sales are either giving 9 dollars or below of profit or even bringing the company loss.
